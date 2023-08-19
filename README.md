@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Villatoro </h1>
 <h3 align="center">Data Scientist | Problem Solver with Data | Passionate about Machine Learning </h3>
+<img align=“right” alt=“coding” widht=“400” src=“https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif”>
+
 
 - 🔭 I’m currently working on **Build a Customer Churn Prediction Model using Decision Trees**
 
