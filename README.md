@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Villatoro </h1>
 <h3 align="center">Data Scientist | Problem Solver with Data | Passionate about Machine Learning </h3>
-<img aling="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
-
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
 - 🔭 I’m currently working on **Build a Customer Churn Prediction Model using Decision Trees**
 
