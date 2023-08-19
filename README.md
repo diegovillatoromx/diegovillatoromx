@@ -1,6 +1,7 @@
+<img align="right" alt="Coder_GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
+
 <h1 align="center">Hi 👋, I'm Diego Villatoro </h1>
 <h3 align="center">Data Scientist | Problem Solver with Data | Passionate about Machine Learning </h3>
-<img align=“right” alt=“coding” widht=“400” src=“https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif”>
 
 
 - 🔭 I’m currently working on **Build a Customer Churn Prediction Model using Decision Trees**
