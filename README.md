@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Villatoro</h1>
 <h3 align="center">Data Scientist | Problem Solver with Data | Passionate about Machine Learning </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegovillatoromx&label=Profile%20views&color=0e75b6&style=flat" alt="diegovillatoromx" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=diegovillatoromx" alt="diegovillatoromx" /></a> </p>
 
