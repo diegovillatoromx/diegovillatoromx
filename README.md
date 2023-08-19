@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego Villatoro</h1>
+<h1 align="center">Hi 👋, I'm Diego Villatoro </h1>
 <h3 align="center">Data Scientist | Problem Solver with Data | Passionate about Machine Learning </h3>
 
 - 🔭 I’m currently working on **Build a Customer Churn Prediction Model using Decision Trees**
