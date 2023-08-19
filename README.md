@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Diego Villatoro</h1>
 <h3 align="center">Data Scientist | Problem Solver with Data | Passionate about Machine Learning </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=diegovillatoromx&label=Profile%20views&color=0e75b6&style=flat" alt="diegovillatoromx" /> </p>
-
-
-<p align="left"> <a href="https://twitter.com/diegovillatomx" target="blank"><img src="https://img.shields.io/twitter/follow/diegovillatomx?logo=twitter&style=for-the-badge" alt="diegovillatomx" /></a> </p>
-
 - 🔭 I’m currently working on **Build a Customer Churn Prediction Model using Decision Trees**
 
 - 💬 Ask me about **Pytorch, Machine Learning**
