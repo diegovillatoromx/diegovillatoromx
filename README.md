@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Villatoro</h1>
 <h3 align="center">Data Scientist | Problem Solver with Data | Passionate about Machine Learning</h3>
-<img align=“right” alt=“coding” widht=“400” src=“https://gifdb.com/images/high/man-quick-system-coding-vgsda2t7d5tu7o9x.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegovillatoromx&label=Profile%20views&color=0e75b6&style=flat" alt="diegovillatoromx" /> </p>
 
