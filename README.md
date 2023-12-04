@@ -19,7 +19,7 @@
 
 <h3 align="left">Technologies I've Worked With:</h3>
 <p align="left"> 
-<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://docs.aws.amazon.com/AmazonS3/latest/dev/images/s3.png" alt="Amazon S3" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> <img src="https://images.app.goo.gl/zb8WcEezzbQeSzK29" alt="Amazon S3" width="40" height="40"/> </a>
 <a href="https://www.snowflake.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/30371671?s=200&v=4" alt="Snowflake" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/mwaa/" target="_blank" rel="noreferrer"> <img src="https://docs.aws.amazon.com/mwaa/latest/userguide/images/aws-mwaa-color.png" alt="Amazon MWAA" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/kinesis/firehose/" target="_blank" rel="noreferrer"> <img src="https://docs.aws.amazon.com/firehose/latest/dev/images/firehose.png" alt="Amazon Kinesis Firehose" width="40" height="40"/> </a>
