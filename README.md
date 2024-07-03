@@ -4,8 +4,8 @@
 𝗧𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹 𝗦𝗸𝗶𝗹𝗹𝘀:
 I bring expertise in a variety of technologies, including:
 
-- ✅AWS (EC2, S3, Glue, Redshift, Lambda)
-- ✅Apache Airflow, Apache Flink
-- ✅Snowflake, AWS Kinesis
-- ✅Data modeling, ETL/ELT
-- ✅Python, SQL
+- ✅ AWS (EC2, S3, Glue, Redshift, Lambda)
+- ✅ Apache Airflow, Apache Flink
+- ✅ Snowflake, AWS Kinesis
+- ✅ Data modeling, ETL/ELT
+- ✅ Python, SQL
